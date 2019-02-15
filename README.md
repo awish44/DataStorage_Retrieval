@@ -1,6 +1,6 @@
 # Data Storage & Retrieval | Flask API
 
-* Click here to view my [final code](climate_starter.ipynb)!
+* Click [here](climate_starter.ipynb) to view my final code!
 
 ## Step 1 - Climate Analysis and Exploration
 
