@@ -1,4 +1,4 @@
-# Data Storage & Retrieval |  Weather analysis & Flask API
+# Data Storage & Retrieval | Flask API
 
 * Click here to view my [final code](climate_starter.ipynb)!
 
